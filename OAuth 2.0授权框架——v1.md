@@ -1,3 +1,9 @@
+---
+post_title: 'OAuth 2.0授权框架 - 简介'
+author: Bin Yang
+layout: post
+published: true
+---
 # OAuth 2.0授权框架 - 简介
 
 OAuth2.0授权框架允许第三方应用获取对HTTP服务的有限的访问权限，既可以以资源所有者（resource owner）名义在资源所有者和HTTP服务之间进行允许的交互，也可以允许第三方应用以自己的名义进行访问。
