@@ -6,11 +6,7 @@ layout: post_type_probably_post
 published: true_or_false
 author: author_name
 tags:
-    - tag_a
-    - tag_b
 categories:
-    - category_a
-    - category_b
 --
 
 test content-
