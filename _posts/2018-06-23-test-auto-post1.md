@@ -1,11 +1,14 @@
 ---
-post_title: 'test auto post1'
-author: forgerockcn_bin
+ID: 1539
+post_title: test auto post1
+author: forgerockcn
 post_excerpt: ""
 layout: post
+permalink: >
+  http://www.forgerockcn.com/2018/06/23/test-auto-post1/
 published: true
+post_date: 2018-06-23 09:34:21
 ---
-
 <h1>
 <span>Driving Digital Identity Forward - Amazon's Alexa and the Connected Car</span>
 </h1>
